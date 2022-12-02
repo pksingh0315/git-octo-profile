@@ -1,0 +1,14 @@
+@import "./home.scss";
+
+@import "./User.scss";
+
+@import "./userInfo.scss";
+
+@import "./repoDetails.scss";
+
+@import "./Chart.scss";
+
+body {
+  box-sizing: border-box;
+  min-height: 100vh;
+}
